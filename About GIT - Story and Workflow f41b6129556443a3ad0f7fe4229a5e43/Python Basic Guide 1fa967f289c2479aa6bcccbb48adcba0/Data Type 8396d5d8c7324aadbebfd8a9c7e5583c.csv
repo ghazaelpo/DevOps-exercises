@@ -1,0 +1,6 @@
+﻿Categories,Data type
+Numeric Types,str
+Sequence Types,"list, range, tuple"
+Mapping Types,dict
+Boolean Types,bool
+Binary Types,"bytearray, bytes, memory, view"

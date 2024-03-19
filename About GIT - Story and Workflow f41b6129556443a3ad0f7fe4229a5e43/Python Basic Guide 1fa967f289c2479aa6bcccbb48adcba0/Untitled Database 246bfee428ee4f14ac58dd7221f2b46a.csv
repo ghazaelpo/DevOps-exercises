@@ -1,0 +1,7 @@
+﻿Operator,Meaning
+>,greater than
+<,smaller than
+>=,greater than or equal to
+<=,smaller than or equal to
+==,is equal
+!=,is not equal
