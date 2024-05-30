@@ -8,7 +8,7 @@
 
 1. But first I will create a resource group to handle this activity
     
-    ![Screen Shot 2021-10-27 at 16.51.17.png](Lab%201,%20lets%20install%20K8s,%20Helm%20and%20my%20very%20first%20ch%2039340398eed643aabda087a12c7180bf/Screen_Shot_2021-10-27_at_16.51.17.png)
+    ![Screen Shot 2021-10-27 at 16.51.17.png](./Screen_Shot_2021-10-27_at_16.51.17.png)
     
 
 1. In this resource group I will create a cluster
